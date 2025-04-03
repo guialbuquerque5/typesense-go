@@ -1,4 +1,4 @@
-module github.com/typesense/typesense-go/v3
+module github.com/guialbuquerque5/typesense-go/v3
 
 go 1.22
 
