@@ -1,3 +1,3 @@
 // Package test contains integration tests for the
-// github.com/typesense/typesense-go/v3/typesense package.
+// github.com/guialbuquerque5/typesense-go/typesense package.
 package test

@@ -7,8 +7,8 @@ import (
 	"context"
 	"testing"
 
+	"github.com/guialbuquerque5/typesense-go/typesense/api"
 	"github.com/stretchr/testify/require"
-	"github.com/typesense/typesense-go/v3/typesense/api"
 )
 
 func TestAnalyticsEventsCreate(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/guialbuquerque5/typesense-go/v3
+module github.com/guialbuquerque5/typesense-go
 
 go 1.22
 
@@ -12,6 +12,7 @@ require (
 	github.com/sony/gobreaker v1.0.0
 	github.com/stretchr/testify v1.9.0
 	github.com/testcontainers/testcontainers-go v0.12.0
+	github.com/typesense/typesense-go/v3 v3.2.0
 	go.uber.org/mock v0.5.0
 	gopkg.in/yaml.v3 v3.0.1
 )
